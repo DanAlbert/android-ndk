@@ -15,6 +15,7 @@ android {
     }
     buildFeatures {
         viewBinding true
+        prefab true
     }
     buildTypes {
         release {
